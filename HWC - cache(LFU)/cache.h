@@ -28,7 +28,7 @@ namespace caches
 				});
 		}
 		void emplace(KeyT element);
-		size_t GetHits() { return hits_; }
+		size_t GetHits() const { return hits_; }
 
 	};
 
