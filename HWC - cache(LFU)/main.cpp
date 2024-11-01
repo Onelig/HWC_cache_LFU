@@ -1,4 +1,5 @@
-﻿#include "cache.h"
+﻿#include <iostream>
+#include "cache.h"
 
 int main()
 {
